@@ -1,32 +1,80 @@
-# Portfolio
+# 🚀 Divya Lalwani  
 
-<h1 align="center">Divya Lalwani</h1>
-<h3 align="center">A highly observant data engineer</h3>
+## 🌟 A Highly Observant Data Engineer | AI & ML Enthusiast
 
-- 🌱 I’m currently learning **Generative AI and Data Science.**
-  
-- 📫 How to reach me **divyalalwani1725@gmail.com**
+🔹 Passionate about **Data Engineering, AI/ML, Generative AI, and Cloud Computing**.  
+🔹 Experienced in **Data Processing, SQL, and NLP**.  
+🔹 Currently exploring **Generative AI & Data Science**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divya-lalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyalalwani" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/divyalalwania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divyalalwani" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c++" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/> </a>
-</p>
+## 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DivyaLalwani-blue?logo=linkedin)](https://linkedin.com/in/divya-lalwani)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-DivyaLalwani-blue?logo=kaggle)](https://www.kaggle.com/divyalalwania)  
+📧 **Email:** divyalalwani1725@gmail.com  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**💻 Programming:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+
+**📊 Data & ML:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFDD44?logo=python&logoColor=black)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  
+
+**☁️ Cloud Platforms:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)  
+
+**🛢️ Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+
+---
+
+## 🏆 Certifications  
+✅ **AWS Certified Cloud Practitioner**  
+✅ **Microsoft Azure Fundamentals**  
+✅ **Google TensorFlow Developer Certification**  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 **CDR Analysis System**  
+📌 **Tech:** Python, Flask, MySQL, Tkinter, Pandas  
+📌 **Features:** Call detail records processing, filtering, and reporting  
+
+🔗 [GitHub Repo](#) | 🔗 [Live Demo](#)  
+
+### 🔹 **Financial Agentic AI System**  
+📌 **Tech:** NLP, LLMs, LangChain, OpenAI API  
+📌 **Features:** AI-powered financial insights, data-driven decision-making  
+
+🔗 [GitHub Repo](#) | 🔗 [Live Demo](#)  
+
+### 🔹 **Generative AI Text Summarizer**  
+📌 **Tech:** OpenAI, Hugging Face, Python, Flask  
+📌 **Features:** AI-generated summaries, sentiment analysis  
+
+🔗 [GitHub Repo](#) | 🔗 [Live Demo](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyalalwani&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyalalwani&layout=compact&theme=dark)  
+
+---
+
+✨ **Let's connect and build something amazing!** 🚀

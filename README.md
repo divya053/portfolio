@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
@@ -50,15 +51,19 @@
 
 ## 🚀 Projects  
 
-### 🔹 **CDR Analysis System**  
-📌 **Tech:** Python, Flask, MySQL, Tkinter, Pandas  
-📌 **Features:** Call detail records processing, filtering, and reporting  
+### 🔹 **Face Recognition & Anti-Spoofing Android App**  
+📌 **Tech:** Kotlin, TensorFlow Lite, OpenCV, Firebase ML Kit  
+📌 **Features:**  
+- Face recognition using deep learning  
+- Liveness detection to prevent spoofing  
+- Offline & real-time processing  
+- Secure biometric authentication  
 
 🔗 [GitHub Repo](#) | 🔗 [Live Demo](#)  
 
-### 🔹 **Financial Agentic AI System**  
-📌 **Tech:** NLP, LLMs, LangChain, OpenAI API  
-📌 **Features:** AI-powered financial insights, data-driven decision-making  
+### 🔹 **CDR Analysis System**  
+📌 **Tech:** Python, Flask, MySQL, Tkinter, Pandas  
+📌 **Features:** Call detail records processing, filtering, and reporting  
 
 🔗 [GitHub Repo](#) | 🔗 [Live Demo](#)  
 

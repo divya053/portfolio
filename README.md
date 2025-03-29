@@ -12,7 +12,6 @@
 ## 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=divyalalwani&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=5" alt="Trophies" />  
-  <img src="https://github-profile-achievements.vercel.app/api?username=divyalalwani&theme=radical&no-bg=true&column=7" alt="Achievements" />
 </p>
 
 ---

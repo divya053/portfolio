@@ -9,6 +9,20 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyalalwani&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+<div align="center">
+  
+![Achievements](https://github-profile-achievements.vercel.app/api?username=divyalalwani&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools  
 
 ### 🔥 **Core Expertise**  
@@ -28,14 +42,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🛢️ **Data Ecosystem**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects  
@@ -46,25 +52,6 @@
 ✨ **Features**:  
 - Real-time face anti-spoofing with 99.2% accuracy  
 - Firebase ML Kit integration  
-- <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> Optimized for offline use  
-
----
-
-### 📊 **Call Analytics Engine**  
-[![View on GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)  
-⚡ **Tech Stack**: Python · Flask · MySQL  
-✨ **Features**:  
-- Processed 1M+ CDR records with 90% faster queries  
-- Interactive Tkinter dashboard  
-
----
-
-### ✍️ **GenAI Text Summarizer**  
-[![Try Live Demo](https://img.shields.io/badge/Try_Demo-FF6F00?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link)  
-⚡ **Tech Stack**: OpenAI · Hugging Face · Flask  
-✨ **Features**:  
-- 85% accurate abstractive summaries  
-- Sentiment analysis integration  
 
 ---
 
@@ -89,13 +76,4 @@
   <a href="mailto:divyalalwani1725@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/divyalalwania">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
 </p>
-
-<div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=divyalalwani&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/divyalalwani)
-
-</div>
